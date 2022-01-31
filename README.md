@@ -1,5 +1,5 @@
 #  Method Development SOP (proposed)
-Best practices for method development in the PurdonLab
+Best practices for method development in the PurdonLab. Please complete the sign-in exercise after you read through this document. 
 
 ## Table of contents
 1. [Overview](#overview)
