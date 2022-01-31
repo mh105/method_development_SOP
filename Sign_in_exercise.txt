@@ -6,3 +6,4 @@ pull request and approve the merge.
 
 NAME <EMAIL>
 Alex He <mh105@mit.edu> 
+<<< ADD YOUR ENTRY HERE 
