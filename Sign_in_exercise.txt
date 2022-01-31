@@ -1,6 +1,6 @@
 Sign-in Exercise:
 - Make a new branch or fork of this repo, add your name to the following sign-in sheet, 
-and create a pull-request to this repo. Invite someone as your co-pilot to review your 
+and create a pull request to this repo. Invite someone as your co-pilot to review your 
 pull request and approve the merge. 
 
 
